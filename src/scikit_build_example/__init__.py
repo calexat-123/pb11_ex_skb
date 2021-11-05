@@ -1,1 +1,2 @@
-from ._core import __doc__, __version__, add, subtract
+from ._core import Pipeline
+__all__ = ["Pipeline"]
